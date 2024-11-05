@@ -1,0 +1,11 @@
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\bin\Debug\net8.0\IronSoftwareTest.deps.json
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\bin\Debug\net8.0\IronSoftwareTest.dll
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\bin\Debug\net8.0\IronSoftwareTest.pdb
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.AssemblyInfoInputs.cache
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.AssemblyInfo.cs
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.dll
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\refint\IronSoftwareTest.dll
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\IronSoftwareTest.pdb
+C:\Users\Bruno Casas Pescador\Desktop\IronSoftware\IronSoftwareTest-main\IronSoftwareTest\obj\Debug\net8.0\ref\IronSoftwareTest.dll
